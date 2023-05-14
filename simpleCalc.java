@@ -1,4 +1,4 @@
-package Java.SimpleCalculator;
+package SimpleCalculator;
 import java.util.*; //so you can use Scanner
 
 public class simpleCalc 
